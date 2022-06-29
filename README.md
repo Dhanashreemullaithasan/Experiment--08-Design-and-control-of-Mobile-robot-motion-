@@ -1,4 +1,4 @@
-# Ex.No:8 Design-and-control-of-Mobile-robot-motion-
+# Ex.No:7 Design-and-control-of-Mobile-robot-motion-
  
 
 ## AIM: 
